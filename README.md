@@ -1,5 +1,8 @@
 # NETWORK RECOMMENDATION ENGINE
 
+## Questions/Feedback?
+Email me at Lianghao.zhao@gmail.com or add me on LinkedIn at https://www.linkedin.com/in/zhaojacky/
+
 ## Problem: 
 People tend to self-identify and stay within their own social circle of friends and colleagues. They are unwittingly excluding others with different labels from their network
 
